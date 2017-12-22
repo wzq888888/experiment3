@@ -1,0 +1,20 @@
+training data:
+
+             percision    recall      score   support
+
+    nonface       1.00      1.00      1.00       250
+
+       face       1.00      1.00      1.00       250
+
+      total       1.00      1.00      1.00       500
+
+
+testing data:
+
+             percision    recall      score   support
+
+    nonface       0.98      0.98      0.98       250
+
+       face       0.98      0.98      0.98       250
+
+      total       0.98      0.98      0.98       500
